@@ -1,4 +1,16 @@
-### Hi there 👋
+# ✨ Pronouns 
+He/Him
+
+# Major 
+Visual Communications Design
+
+# Skills
+* Web Design
+* Photography
+* Illustration
+
+# Superpower
+Getting 3 flat tires in one year
 
 <!--
 **cadendavis/cadendavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
